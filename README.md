@@ -57,15 +57,13 @@ Install dependencies:
 npm install
 ```
 Start the server:
-```
-bash
+```bash
 npm start
 ```
 Getting Started
 To set up the project locally:
 
 Clone the repository:
-```
-bash
+```bash
 git clone https://github.com/UshanagallaShashank/dataFetch.git
 ```
