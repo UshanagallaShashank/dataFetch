@@ -33,12 +33,10 @@ The client application is built using React and allows users to interact with cu
 
 1. Navigate to the `client` folder.
 2. Install dependencies:
-
-   ```bash
-   npm install
-  ```
-Start the client application:
-
+```bash
+npm install
+```
+Start  Frontend
 ```bash
 npm start
 ```
