@@ -59,13 +59,13 @@ Start  Frontend
 npm start
 ```
 Server
-Description: 
-The server application is built using Node.js and provides RESTful APIs for managing customer data.
+-Description: 
+-The server application is built using Node.js and provides RESTful APIs for managing customer data.
 
 Technologies Used:
-  1.Node.js
-  2.Express
-  3.PostgreSQL
+  -1.Node.js
+  -2.Express
+  -3.PostgreSQL
 Installation
 1.Navigate to the `server` folder.(cd server)
 
