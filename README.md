@@ -35,7 +35,19 @@ Clone the repository:
 ```bash
 git clone https://github.com/UshanagallaShashank/dataFetch.git
 ```
+Create the table:
+```bash
+CREATE TABLE IF NOT EXISTS customers (
+  sno SERIAL PRIMARY KEY,
+  customer_name VARCHAR(255),
+  age INT,
+  phone VARCHAR(15),
+  location VARCHAR(255),
+  created_at TIMESTAMP DEFAULT NOW()
+);
 
+```
+Insert the data accordingly
 
 1. Navigate to the `client` folder.
 2. Install dependencies:
