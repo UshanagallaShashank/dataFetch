@@ -67,5 +67,5 @@ To set up the project locally:
 Clone the repository:
 ```
 bash
-git clone https://github.com/your-username/customer-management-app.git
+git clone https://github.com/UshanagallaShashank/dataFetch.git
 ```
