@@ -31,6 +31,12 @@ The client application is built using React and allows users to interact with cu
 
 ### Installation
 
+Clone the repository:
+```bash
+git clone https://github.com/UshanagallaShashank/dataFetch.git
+```
+
+
 1. Navigate to the `client` folder.
 2. Install dependencies:
 ```bash
@@ -61,9 +67,5 @@ Start the server:
 npm start
 ```
 Getting Started
-To set up the project locally:
 
-Clone the repository:
-```bash
-git clone https://github.com/UshanagallaShashank/dataFetch.git
-```
+
