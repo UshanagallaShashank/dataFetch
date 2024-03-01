@@ -49,7 +49,7 @@ CREATE TABLE IF NOT EXISTS customers (
 ```
 Insert the data accordingly
 
-1. Navigate to the `client` folder.
+1. Navigate to the `client` folder.(cd client)
 2. Install dependencies:
 ```bash
 npm install
@@ -59,17 +59,17 @@ Start  Frontend
 npm start
 ```
 Server
-Description
+Description: 
 The server application is built using Node.js and provides RESTful APIs for managing customer data.
 
-Technologies Used
-Node.js
-Express
-PostgreSQL
+Technologies Used:
+  1.Node.js
+  2.Express
+  3.PostgreSQL
 Installation
-Navigate to the server folder.
+1.Navigate to the `server` folder.(cd server)
 
-Install dependencies:
+2.Install dependencies:
 
 ```bash
 npm install
