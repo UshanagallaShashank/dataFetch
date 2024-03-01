@@ -112,10 +112,4 @@ To set up the project locally:
 
 2. Start the frontend and server applications.
 
-## Contributing
 
-Feel free to contribute to this project by following the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
